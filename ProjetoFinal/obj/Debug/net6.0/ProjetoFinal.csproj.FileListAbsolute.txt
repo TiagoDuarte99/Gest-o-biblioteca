@@ -1,0 +1,210 @@
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/Tesp/Linguagem de Programação 1/ProjetoFinal/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.exe
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/Tesp/Linguagem de Programação 1/ProjetoFinal/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.deps.json
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/Tesp/Linguagem de Programação 1/ProjetoFinal/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.runtimeconfig.json
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/Tesp/Linguagem de Programação 1/ProjetoFinal/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/Tesp/Linguagem de Programação 1/ProjetoFinal/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.pdb
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/Tesp/Linguagem de Programação 1/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.AssemblyReference.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/Tesp/Linguagem de Programação 1/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/Tesp/Linguagem de Programação 1/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfoInputs.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/Tesp/Linguagem de Programação 1/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfo.cs
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/Tesp/Linguagem de Programação 1/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.CoreCompileInputs.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/Tesp/Linguagem de Programação 1/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/Tesp/Linguagem de Programação 1/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/refint/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/Tesp/Linguagem de Programação 1/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.pdb
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/Tesp/Linguagem de Programação 1/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.genruntimeconfig.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/Tesp/Linguagem de Programação 1/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ref/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.exe
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.deps.json
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.runtimeconfig.json
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.pdb
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.AssemblyReference.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfoInputs.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfo.cs
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.CoreCompileInputs.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/refint/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.pdb
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.genruntimeconfig.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal/ProjetoFinal/obj/Debug/net6.0/ref/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.exe
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.deps.json
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.runtimeconfig.json
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.pdb
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.AssemblyReference.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfoInputs.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfo.cs
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.CoreCompileInputs.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1/ProjetoFinal/obj/Debug/net6.0/refint/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.pdb
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.genruntimeconfig.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1/ProjetoFinal/obj/Debug/net6.0/ref/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 - Cópia (2)/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.exe
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 - Cópia (2)/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.deps.json
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 - Cópia (2)/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.runtimeconfig.json
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 - Cópia (2)/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 - Cópia (2)/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.pdb
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 - Cópia (2)/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.AssemblyReference.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 - Cópia (2)/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 - Cópia (2)/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfoInputs.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 - Cópia (2)/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfo.cs
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 - Cópia (2)/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.CoreCompileInputs.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 - Cópia (2)/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 - Cópia (2)/ProjetoFinal/obj/Debug/net6.0/refint/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 - Cópia (2)/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.pdb
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 - Cópia (2)/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.genruntimeconfig.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 - Cópia (2)/ProjetoFinal/obj/Debug/net6.0/ref/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 C#/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.exe
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 C#/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.deps.json
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 C#/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.runtimeconfig.json
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 C#/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 C#/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.pdb
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.AssemblyReference.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfoInputs.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfo.cs
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.CoreCompileInputs.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/refint/ProjetoFinal.dll
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.pdb
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.genruntimeconfig.cache
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ref/ProjetoFinal.dll
+C:/Users/leone/projetos/C#/ProjetoFinal1 C#/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.exe
+C:/Users/leone/projetos/C#/ProjetoFinal1 C#/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.deps.json
+C:/Users/leone/projetos/C#/ProjetoFinal1 C#/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.runtimeconfig.json
+C:/Users/leone/projetos/C#/ProjetoFinal1 C#/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.dll
+C:/Users/leone/projetos/C#/ProjetoFinal1 C#/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.pdb
+C:/Users/leone/projetos/C#/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.AssemblyReference.cache
+C:/Users/leone/projetos/C#/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/leone/projetos/C#/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfoInputs.cache
+C:/Users/leone/projetos/C#/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfo.cs
+C:/Users/leone/projetos/C#/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.CoreCompileInputs.cache
+C:/Users/leone/projetos/C#/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.dll
+C:/Users/leone/projetos/C#/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/refint/ProjetoFinal.dll
+C:/Users/leone/projetos/C#/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.pdb
+C:/Users/leone/projetos/C#/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.genruntimeconfig.cache
+C:/Users/leone/projetos/C#/ProjetoFinal1 C#/ProjetoFinal/obj/Debug/net6.0/ref/ProjetoFinal.dll
+/Users/danielagodoi/Desktop/ProjetoFinal1 C# 2/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal
+/Users/danielagodoi/Desktop/ProjetoFinal1 C# 2/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.deps.json
+/Users/danielagodoi/Desktop/ProjetoFinal1 C# 2/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.runtimeconfig.json
+/Users/danielagodoi/Desktop/ProjetoFinal1 C# 2/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.dll
+/Users/danielagodoi/Desktop/ProjetoFinal1 C# 2/ProjetoFinal/bin/Debug/net6.0/ProjetoFinal.pdb
+/Users/danielagodoi/Desktop/ProjetoFinal1 C# 2/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.AssemblyReference.cache
+/Users/danielagodoi/Desktop/ProjetoFinal1 C# 2/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielagodoi/Desktop/ProjetoFinal1 C# 2/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfoInputs.cache
+/Users/danielagodoi/Desktop/ProjetoFinal1 C# 2/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.AssemblyInfo.cs
+/Users/danielagodoi/Desktop/ProjetoFinal1 C# 2/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.csproj.CoreCompileInputs.cache
+/Users/danielagodoi/Desktop/ProjetoFinal1 C# 2/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.dll
+/Users/danielagodoi/Desktop/ProjetoFinal1 C# 2/ProjetoFinal/obj/Debug/net6.0/refint/ProjetoFinal.dll
+/Users/danielagodoi/Desktop/ProjetoFinal1 C# 2/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.pdb
+/Users/danielagodoi/Desktop/ProjetoFinal1 C# 2/ProjetoFinal/obj/Debug/net6.0/ProjetoFinal.genruntimeconfig.cache
+/Users/danielagodoi/Desktop/ProjetoFinal1 C# 2/ProjetoFinal/obj/Debug/net6.0/ref/ProjetoFinal.dll
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.exe
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.deps.json
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.runtimeconfig.json
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.dll
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.dll
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2\ProjetoFinal\obj\Debug\net6.0\refint\ProjetoFinal.dll
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.genruntimeconfig.cache
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2\ProjetoFinal\obj\Debug\net6.0\ref\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.exe
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.deps.json
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.runtimeconfig.json
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\refint\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ref\ProjetoFinal.dll
+C:\Users\35191\Desktop\DWM Ipca 1ºAno\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.exe
+C:\Users\35191\Desktop\DWM Ipca 1ºAno\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.deps.json
+C:\Users\35191\Desktop\DWM Ipca 1ºAno\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.runtimeconfig.json
+C:\Users\35191\Desktop\DWM Ipca 1ºAno\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.dll
+C:\Users\35191\Desktop\DWM Ipca 1ºAno\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\35191\Desktop\DWM Ipca 1ºAno\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\35191\Desktop\DWM Ipca 1ºAno\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35191\Desktop\DWM Ipca 1ºAno\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\35191\Desktop\DWM Ipca 1ºAno\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\35191\Desktop\DWM Ipca 1ºAno\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\35191\Desktop\DWM Ipca 1ºAno\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.dll
+C:\Users\35191\Desktop\DWM Ipca 1ºAno\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\refint\ProjetoFinal.dll
+C:\Users\35191\Desktop\DWM Ipca 1ºAno\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\35191\Desktop\DWM Ipca 1ºAno\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.genruntimeconfig.cache
+C:\Users\35191\Desktop\DWM Ipca 1ºAno\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ref\ProjetoFinal.dll
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.exe
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.deps.json
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.runtimeconfig.json
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.dll
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.dll
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\refint\ProjetoFinal.dll
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.genruntimeconfig.cache
+C:\Users\35191\Desktop\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ref\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Nova pasta\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.exe
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Nova pasta\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.deps.json
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Nova pasta\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.runtimeconfig.json
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Nova pasta\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Nova pasta\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Nova pasta\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Nova pasta\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Nova pasta\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Nova pasta\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Nova pasta\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Nova pasta\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Nova pasta\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\refint\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Nova pasta\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Nova pasta\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Nova pasta\ProjetoFinal1 C# 2 Terminado\ProjetoFinal\obj\Debug\net6.0\ref\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.exe
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.deps.json
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.runtimeconfig.json
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\refint\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ref\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Tesp\1 Semestre\Linguagem de Programação 1\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.exe
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Tesp\1 Semestre\Linguagem de Programação 1\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.deps.json
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Tesp\1 Semestre\Linguagem de Programação 1\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.runtimeconfig.json
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Tesp\1 Semestre\Linguagem de Programação 1\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Tesp\1 Semestre\Linguagem de Programação 1\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Tesp\1 Semestre\Linguagem de Programação 1\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Tesp\1 Semestre\Linguagem de Programação 1\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Tesp\1 Semestre\Linguagem de Programação 1\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Tesp\1 Semestre\Linguagem de Programação 1\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Tesp\1 Semestre\Linguagem de Programação 1\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Tesp\1 Semestre\Linguagem de Programação 1\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Tesp\1 Semestre\Linguagem de Programação 1\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\refint\ProjetoFinal.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Tesp\1 Semestre\Linguagem de Programação 1\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.pdb
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Tesp\1 Semestre\Linguagem de Programação 1\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\Tesp\1 Semestre\Linguagem de Programação 1\ProjetoFinal1 C# 28Janeiro\ProjetoFinal\obj\Debug\net6.0\ref\ProjetoFinal.dll
